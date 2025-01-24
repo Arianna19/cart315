@@ -12,4 +12,4 @@ To be honest "Red Cell Rush" kept a humoristic aspect in my opinion of being a c
 
 During the playtest everyone loved the game and the thematic experience of it being the human body. However, signs were in the way of the experience or need to be more carefully placed. Players actually did find the game difficult although I thought it was overly simple which was a pleasant surprise.
 
-![alt tag](images/miniThingImages/homescreen.png)
+![This is an image of my game](images/miniThingImages/homescreen.png)
