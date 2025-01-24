@@ -12,8 +12,8 @@ To be honest "Red Cell Rush" kept a humoristic aspect in my opinion of being a c
 
 During the playtest everyone loved the game and the thematic experience of it being the human body. However, signs were in the way of the experience or need to be more carefully placed. Players actually did find the game difficult although I thought it was overly simple which was a pleasant surprise.
 
-![This is an image of the start screen](miniThingImages/images/homescreen.png)
-![This is an image of Level 1: The Heart](miniThingImages/images/level1.png)
-![This is an image of Level 2: The Stomach](miniThingImages/images/level2.png)
-![This is an image of Level 3: The Brain](miniThingImages/images/level3.png)
-![This is an image of End Game Screen](miniThingImages/images/homescreen.png)
+![This is an image of the start screen](images/miniThingImages/homescreen.png)
+![This is an image of Level 1: The Heart](images/miniThingImages/level1.png)
+![This is an image of Level 2: The Stomach](images/miniThingImages/level2.png)
+![This is an image of Level 3: The Brain](images/miniThingImages/level3.png)
+![This is an image of End Game Screen](images/miniThingImages/homescreen.png)
