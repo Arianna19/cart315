@@ -32,3 +32,12 @@ Honestly, I would've loved to spend more time making the entire thing more of a 
 
 For the future of this course and my Unity path, I would want to explore more point systems, counters, state changes and work more on collision elements for future assignments when I will allocate myself more time. 
 
+![This is an image of the funny red blood cell](images/bootlegFlappyImages/redCell.png)
+![This is an image of the skin wall to dodge](images/bootlegFlappyImages/skin.png)
+![This is an image of the simulation itself](images/bootlegFlappyImages/BootlegFlappy.png)
+![This is another image of the simulation](images/bootlegFlappyImages/bootlegFlappy2.png)
+
+
+
+
+
