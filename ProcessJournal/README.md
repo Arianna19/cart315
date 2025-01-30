@@ -17,3 +17,18 @@ During the playtest everyone loved the game and the thematic experience of it be
 ![This is an image of Level 2: The Stomach](images/miniThingImages/level2.png)
 ![This is an image of Level 3: The Brain](images/miniThingImages/level3.png)
 ![This is an image of End Game Screen](images/miniThingImages/homescreen.png)
+
+## Tiny Game | January 30th 2025
+
+Bootleg Fally bird was mainly inspired by the demo presented in class last week. I was mainly inspired to this when the teacher made a falling circle onto a box. I kind of dawned on me as I was zoning out from tiredness of lack of sleep due to staying up late the night prior doing Red Cell Rush. 
+
+Neverthless, this small prototype was to test or get our hands dirty with Unity. Being a first timer this was a pretty big challenge trying to figure out how Unity works and all the different components were quite overwhelming I must say. I felt a Flappy Bird type game would be the perfect concept to understand collision, movement, camera and placement when it comes to Unity. Basically everything shown in the class. Again, remembering that this was mainly a test assignment, so not taking it too seriously and not "try-hard" too much doing this. I used it more as a discovery moment. 
+
+The way I wanted to personalize this project a bit more and not make it a complete Flappy Bird copy was to draw inspiration by "Red Cell Rush" my previous assignment being themed around the human body and its functions. So, following that idea I just grabbed a funny image of a red blood cell from the internet and skin clipart images as the walls the user isn't supposed to touch. For some reason this semester a lot of my projects have revolved around the human body's components which is funny, so why not continue the theme? I didn't create my own images maybe because I was lazy but mostly because I didn't want to spend too much time on things outside of Unity for this mini test. Again, really just wanted to get to know the program more than focusing on making a visually and absolutely new game/creation. 
+
+I would say Unity is interesting in how everything really has to be added and then modified through coding which might be a challenge for me in the future of this class since I'm not the best coder. Regardless I'm going to thug it out and hopefully learn to understand it more. I like how whatever I do in code it's immediately presented/compiled in Unity and how certain components are modular/modifiable within the app itself instead of having to go to VS Code and code it myself. 
+
+Honestly, I would've loved to spend more time making the entire thing more of a game instead of an interactive "unfinished" looking creation. I must admit I have been swamped this week and may have waited too long to start this mini experimental assignment but at least I got something and learned something. I believe this also happened because peers told me how this is a highly experimental and unserious assignment which is why it is the way it is.
+
+For the future of this course and my Unity path, I would want to explore more point systems, counters, state changes and work more on collision elements for future assignments when I will allocate myself more time. 
+
