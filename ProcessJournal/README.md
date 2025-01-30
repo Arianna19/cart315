@@ -32,10 +32,14 @@ Honestly, I would've loved to spend more time making the entire thing more of a 
 
 For the future of this course and my Unity path, I would want to explore more point systems, counters, state changes and work more on collision elements for future assignments when I will allocate myself more time. 
 
+Main thing: Didn't want to create something crazy new because I wanted to spend most of my time getting familiar with Unity and it was also my first time coding in C# so might as well code a game that's somewhat easy to code. 
+
 ![This is an image of the funny red blood cell](images/bootlegFlappyImages/redCell.png)
 ![This is an image of the skin wall to dodge](images/bootlegFlappyImages/skin.png)
 ![This is an image of the simulation itself](images/bootlegFlappyImages/BootlegFlappy.png)
 ![This is another image of the simulation](images/bootlegFlappyImages/bootlegFlappy2.png)
+![This is another image of when player dies in game](images/bootlegFlappyImages/cellDiedScreen.png)
+
 
 
 
