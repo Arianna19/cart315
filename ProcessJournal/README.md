@@ -16,7 +16,7 @@ During the playtest everyone loved the game and the thematic experience of it be
 ![This is an image of Level 1: The Heart](images/miniThingImages/level1.png)
 ![This is an image of Level 2: The Stomach](images/miniThingImages/level2.png)
 ![This is an image of Level 3: The Brain](images/miniThingImages/level3.png)
-![This is an image of End Game Screen](images/miniThingImages/homescreen.png)
+![This is an image of End Game Screen](images/miniThingImages/endgame.png)
 
 ## ────୨ৎ────First Time in Unity: Bootleg Flappy Bird | January 30th 2025────୨ৎ────
 
