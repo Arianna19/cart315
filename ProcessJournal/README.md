@@ -18,7 +18,7 @@ During the playtest everyone loved the game and the thematic experience of it be
 ![This is an image of Level 3: The Brain](images/miniThingImages/level3.png)
 ![This is an image of End Game Screen](images/miniThingImages/homescreen.png)
 
-## Tiny Game | January 30th 2025
+## First Time in Unity: Bootleg Flappy Bird | January 30th 2025
 
 Bootleg Fally bird was mainly inspired by the demo presented in class last week. I was mainly inspired to this when the teacher made a falling circle onto a box. I kind of dawned on me as I was zoning out from tiredness of lack of sleep due to staying up late the night prior doing Red Cell Rush. 
 
