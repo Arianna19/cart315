@@ -1,6 +1,6 @@
 # ( ╹ -╹)?💭Process Journal( ╹ -╹)?💭
 
-## ────୨ৎ────Tiny Game | January 23rd 2025────୨ৎ────
+## A1────୨ৎ────Tiny Game | January 23rd 2025────୨ৎ────
 
 "Red Cell Rush" is a quirky pixelated platformer where players control a red blood cell navigating through organs to deliver blood. The concept evolved after much trial and error—from food-themed ideas inspired by Japanese street food and desserts like my original idea of a sushi-themed game, where a fish avoids becoming food, being scrapped due to its complexity. And then turning into an entirely new human-body themed concept and game. Honestly this idea came from an epiphany I got while watching Netflix and procrastinating the weekend before the deadline which helped me finalize the concept.
 The game includes three organ-themed levels: Heart, Stomach, and Brain. These choices were partly influenced by what was easiest to draw with Pocket Platformer’s limited tools and perhaps a little hunger while working on this assignment (hence the stomach). Each level is creatively designed to reflect the organ’s environment, such as the stomach level having acid and "poop" obstacles.
@@ -18,7 +18,7 @@ During the playtest everyone loved the game and the thematic experience of it be
 ![This is an image of Level 3: The Brain](images/miniThingImages/level3.png)
 ![This is an image of End Game Screen](images/miniThingImages/endgame.png)
 
-## ────୨ৎ────First Time Unity: Bootleg Flappy Bird | January 30th 2025────୨ৎ────
+## A2────୨ৎ────First Time Unity: Bootleg Flappy Bird | January 30th 2025────୨ৎ────
 
 Bootleg Fally bird was mainly inspired by the demo presented in class last week. I was mainly inspired to this when the teacher made a falling circle onto a box. It kind of dawned on me as I was zoning out from tiredness of lack of sleep due to staying up late the night prior doing Red Cell Rush. 
 
