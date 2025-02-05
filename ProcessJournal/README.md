@@ -40,8 +40,19 @@ Main thing: Didn't want to create something crazy new because I wanted to spend 
 ![This is another image of the simulation](images/bootlegFlappyImages/bootlegFlappy2.png)
 ![This is another image of when player dies in game](images/bootlegFlappyImages/cellDiedScreen.png)
 
+## A3────୨ৎ────Lonely Pong | February 5th 2025────୨ৎ────
 
+Yikes. This week was very hard in terms of finding inspiration or motivation to do much. Seasonal depression? Overwhelming life circumstances? Lack of sleep? Not sure... BUT! Nonetheless life goes on and here's what I came up with for this "mini" assignment. It might be a bit minimalistic but this can be explained with the challenging week I had and also in how Unity is still VERY new to me and I'm still mainly exploring the platform. 
 
+While being shown the demo Pong game last week in class, I realized how it was a two player game. Knowing this, I thought "what if you don't have someone to play with?" You can't really play it otherwise if you're missing a player. Now with this issue I figured why not create a single player version of it? I know this already exists obviously but I'm still using these small assignments as a way of discovering Unity so, again like Bootleg Flappy I want to keep it simple. Hence, the creation of Lonely Pong. 
 
+How did I make it "lonely" or in better words a single player game. I thought about the mobile game "Color Switch" in how it's super simple, single player and also involves a ball with platforms. So why not try to incorporate that circular movement within Pong? I went with the idea keep the cell(ball) within the boundaries of the vein(circular background). 
 
+For the creation of this lonely game, I wanted to personalize it a bit and seeing how this semester I have an amazing human body/function/anatomy/cell theme going on I'm still going to pursue it. Also, having a theme helps me feel more inspired when creating these little games/simulations. Saying that, I decided to keep the same character I had for Bootleg Flappy because it's a circular shape and works perfectly for pong. For the platform I just grabbed an image from Google which is a spine clipart that fit perfectly for my game. Since this is purely and exploratory assignment I didn't want to waste too much time creating my own images and wanted to focus more on what Unity does. 
+
+In terms of what I learned in this project would be dealing with pivot points to create that circular dynamic/path that the spine platform follows. I also learned how to import my own Scripts since the ones Unity were offering were to be frank, boring and didn't follow my "cellular" theme. I had fun dealing with bounds and collisions for either ball which in my case is the red cell and the spine platform. I would say dealing with speed, velocity, randomness, gravity and movement were more of a challenge in this assignment. It's definetely hard to get the right "feel" for player movement and for the ball. Learning how to balance difficulty and what the player can actually do to "win" is a new aspect in game design that I learned throughout this process which was a nice discovery. 
+
+For the future, I would really love trying to figure out how to incorporate a counter that goes up depending on the collisions or whatever encounter it has in the game. I didn't leave myself enough time to try to learn how to do one and also I'm hoping we will cover it in class. I would like to incorporate more screens/scenes but I'm still new to Unity so it's still a complex system for me to grasp and fully understand so maybe for the next assignment I'll try to dive deeper in scene managemet. I only know how to do an end one for now. 
+
+Main thing: This week was a tough one mentally, again didn't want to do anything too crazy within Unity because for one I don't know how it's still very new to me, used this again as an exploratory thing. For two, I just wasn't in the right headspace to try many new things this time. 
 
