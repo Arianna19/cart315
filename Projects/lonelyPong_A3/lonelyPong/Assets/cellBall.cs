@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class cellBall : MonoBehaviour
 {
     Rigidbody2D rigidbod;
@@ -36,6 +36,14 @@ public class cellBall : MonoBehaviour
         //start the cell ball movement/velocity
         rigidbod.velocity = transform.up * speedWoosh;
 
+    }
 
+    private void OnCollisionEnter2D(Collision2D collision) 
+    {
+        if (collision.gameObject.CompareTag("gameOver"))
+        {
+            Scene currentScene = SceneManager.GetActiveScene();
+            SceneManager.LoadScene(currentScene.buildIndex);
+        }
     }
 }
