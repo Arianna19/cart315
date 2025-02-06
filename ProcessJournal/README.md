@@ -56,6 +56,7 @@ For the future, I would like to incorporate more screens/scenes but I'm still ne
 
 Main thing: This week was a tough one mentally, again didn't want to do anything too crazy within Unity because for one I don't know how it's still very new to me, used this again as an exploratory thing. For two, I just wasn't in the right headspace to try many new things this time. 
 
+![This is an image of Lonely Pong](images/lonelyPongImages/spine.png)
 ![This is an image of Lonely Pong](images/lonelyPongImages/lonelyPong.png)
 ![This is an image of Lonely Pong with the points up](images/lonelyPongImages/lonelyPongPointsUp.png)
 
