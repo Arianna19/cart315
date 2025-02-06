@@ -52,7 +52,11 @@ For the creation of this lonely game, I wanted to personalize it a bit and seein
 
 In terms of what I learned in this project would be dealing with pivot points to create that circular dynamic/path that the spine platform follows. I also learned how to import my own Scripts since the ones Unity were offering were to be frank, boring and didn't follow my "cellular" theme. I had fun dealing with bounds and collisions for either ball which in my case is the red cell and the spine platform. I would say dealing with speed, velocity, randomness, gravity and movement were more of a challenge in this assignment. It's definetely hard to get the right "feel" for player movement and for the ball. Learning how to balance difficulty and what the player can actually do to "win" is a new aspect in game design that I learned throughout this process which was a nice discovery. 
 
-For the future, I would really love trying to figure out how to incorporate a counter that goes up depending on the collisions or whatever encounter it has in the game. I didn't leave myself enough time to try to learn how to do one and also I'm hoping we will cover it in class. I would like to incorporate more screens/scenes but I'm still new to Unity so it's still a complex system for me to grasp and fully understand so maybe for the next assignment I'll try to dive deeper in scene managemet. I only know how to do an end one for now. 
+For the future, I would like to incorporate more screens/scenes but I'm still new to Unity so it's still a complex system for me to grasp and fully understand so maybe for the next assignment I'll try to dive deeper in scene managemet. I only know how to do an end one for now. I would also like to figure out how to increase the velocity of the ball overtime to make the game harder overtime and less boring.
 
 Main thing: This week was a tough one mentally, again didn't want to do anything too crazy within Unity because for one I don't know how it's still very new to me, used this again as an exploratory thing. For two, I just wasn't in the right headspace to try many new things this time. 
+
+![This is an image of Lonely Pong](images/lonelyPongImages/lonelyPong.png)
+![This is an image of Lonely Pong with the points up](images/lonelyPongImages/lonelyPongPointsUp.png)
+
 
