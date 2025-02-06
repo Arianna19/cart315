@@ -54,6 +54,8 @@ In terms of what I learned in this project would be dealing with pivot points to
 
 For the future, I would like to incorporate more screens/scenes but I'm still new to Unity so it's still a complex system for me to grasp and fully understand so maybe for the next assignment I'll try to dive deeper in scene managemet. I only know how to do an end one for now. I would also like to figure out how to increase the velocity of the ball overtime to make the game harder overtime and less boring.
 
+Forgot to add and thought about it mid class, the spine image turning into a sprite for unity to read was a headache! I couldn't figure out how to make it read as a whole image and not just little parts. Had to figure out how to sprite editor worked and was a massive headache for me. Almost dropped the whole image itself because of how complicated it was since its not a square, circle, rectangle heart or simple shape!!!
+
 Main thing: This week was a tough one mentally, again didn't want to do anything too crazy within Unity because for one I don't know how it's still very new to me, used this again as an exploratory thing. For two, I just wasn't in the right headspace to try many new things this time. 
 
 ![This is an image of Lonely Pong](images/lonelyPongImages/spine.png)
