@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "lonelyPong.sln"
+    "dotnet.defaultSolution": "lonelyPong_A3.sln"
 }
