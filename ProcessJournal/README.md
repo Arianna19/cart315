@@ -42,6 +42,7 @@ Main thing: Didn't want to create something crazy new because I wanted to spend 
 
 ## A3────୨ৎ────Lonely Pong | February 5th 2025────୨ৎ────
 
+
 Yikes. This week was very hard in terms of finding inspiration or motivation to do much. Seasonal depression? Overwhelming life circumstances? Lack of sleep? Not sure... BUT! Nonetheless life goes on and here's what I came up with for this "mini" assignment. It might be a bit minimalistic but this can be explained with the challenging week I had and also in how Unity is still VERY new to me and I'm still mainly exploring the platform. 
 
 While being shown the demo Pong game last week in class, I realized how it was a two player game. Knowing this, I thought "what if you don't have someone to play with?" You can't really play it otherwise if you're missing a player. Now with this issue I figured why not create a single player version of it? I know this already exists obviously but I'm still using these small assignments as a way of discovering Unity so, again like Bootleg Flappy I want to keep it simple. Hence, the creation of Lonely Pong. 
@@ -61,5 +62,24 @@ Main thing: This week was a tough one mentally, again didn't want to do anything
 ![This is an image of Lonely Pong](images/lonelyPongImages/spine.png)
 ![This is an image of Lonely Pong](images/lonelyPongImages/lonelyPong.png)
 ![This is an image of Lonely Pong with the points up](images/lonelyPongImages/lonelyPongPointsUp.png)
+
+## A4────୨ৎ────Bone Breaker | February 12th 2025────୨ৎ────
+
+Geez. Last week's lecture was so hard to follow I got lost so many times it was really exhausting, my code didn't even properly run or wasn't even the same thing the teacher was getting so it was a huge question mark week. With that in mind I had to really stick to basic stuff for this mini assignment just so that I could actually grasp what we actually did in class. I went the more artistic route with this prototype since I spent most of my time figuring out what the heck was covered. But to give it my own twist I just modified a lot of the visual elements as best as I could. 
+
+So, going into this prototype I went in with the mindset of there's already so many versions of block breaker and it's such a well known game that it's super-or almost impossible to create a new unique spinnoff of it. With that I told myself why not just focus on a visual variation of the game since it's simple and I can still learn throughout the process the main mechanics of the whole game/concept. Now, knowing this I again followed my body/anatomy theme going on for this semester just because it's easier to come up with an idea when following a theme for me, I need some type of constraint or else my imagination runs wild. So, I wanted to deviate from the cell concept since the human body has a lot more to it and also for the sake of creativity and less repetition throughout my assignments. One of the first ideas that came to mind was something to do with bones since they do break in certain individual's lifetimes. Hence,  the name bone breaker because in theory the user uses a skull to follow the skeletal theme to break bones on the top of screen acting as the bricks. 
+
+To make the game flow more intersting, I made it so that the bones have multiple "breaking" levels. In other words, meaning the player has to hit some of them multiple times in order to make the bones go away, or fully destroy them in simpler terms. I tried to also make the bounce factor different depending on where the skull touches the platform. For example, if the right side is hit it bounces at a different velocity and angle compared to if the player hits the center of the platform. 
+
+Honestly, don't have much to say for this assignment unlike my other ones since I was really confused from last week's lecture and spent a really long time reviewing the content. I learned a lot about velocity, angles, scene switching and more about how sprites work. 
+
+I would like to say I struggled mostly with scene management and figuring out how building and connecting scenes worked in Unity. It was such a painful process. Also, an equally painful process that I'm still not used to even after the last assignment "Lonely Pong" is importing my own sprites. It is such a tedious process! To make sure the colliders and rigid body to be perfectly on the imported sprite is COMPLICATED. Also, making sure to see how Unity reads the image itself and how it imports it depending on complex the image is. 
+
+Main thing: Importing complicated sprites is crazy in Unity, velocity and angles are hard to understand. I hate coding. Had fun putting a more visual twist/feel to the project. I think the concept of Bone Breaker is kind of funny. I also like the milk carton platform because...you drink milk for better bones but the user is using it to break them! And it was really late I don't know my brain was fried. 
+
+
+
+
+
 
 
