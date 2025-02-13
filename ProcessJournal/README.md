@@ -89,7 +89,7 @@ This is the final state of the bones and they disappear after this
 ![This is an image Bone 1](images/boneBreakerImages/bone3.png)
 
 ![This is an image BoneBreaker Simulation](images/boneBreakerImages/boneBreakerSimulation.png)
-![This is an image BoneBreaker Simulation](images/boneBreakerImages/bonebreakerSimulation2.png)
+![This is an image BoneBreaker Simulation2](images/boneBreakerImages/bonebreakerSimualtion2.png)
 
 
 
