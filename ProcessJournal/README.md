@@ -79,6 +79,17 @@ Final conclusion while creating Bone Breaker, I can't seem to finish this mini a
 
 Main thing: Importing complicated sprites is crazy in Unity, velocity and angles are hard to understand. I hate coding. Had fun putting a more visual twist/feel to the project. I think the concept of Bone Breaker is kind of funny. I also like the milk carton platform because...you drink milk for better bones but the user is using it to break them! And it was really late I don't know my brain was fried. 
 
+This is the first state of the bones
+![This is an image Bone 1](images/boneBreakerImages/bone1.png)
+
+This is the second state of the bones
+![This is an image Bone 1](images/boneBreakerImages/bone2.png)
+
+This is the final state of the bones and they disappear after this
+![This is an image Bone 1](images/boneBreakerImages/bone3.png)
+
+![This is an image BoneBreaker Simulation](images/boneBreakerImages/boneBreakerSimulation.png)
+![This is an image BoneBreaker Simulation2](images/boneBreakerImages/bonebreakerSimualtion2.png)
 
 
 
