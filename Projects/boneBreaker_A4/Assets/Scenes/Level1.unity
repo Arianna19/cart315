@@ -142,6 +142,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628040804}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -223,6 +247,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628040804}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -291,7 +339,7 @@ GameObject:
   - component: {fileID: 329678510}
   m_Layer: 0
   m_Name: Skull
-  m_TagString: Untagged
+  m_TagString: Skull
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -450,6 +498,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628813492}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: -14.87
@@ -507,6 +571,38 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 927411225}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: unbreakable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: boneHealth
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[3]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: -14.87
@@ -569,6 +665,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1794036898}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.81
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -630,6 +754,38 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 927411225}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: unbreakable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: boneHealth
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[3]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.12
@@ -865,6 +1021,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 30
+  maxBounceAngle: 75
 --- !u!4 &554174160 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
@@ -878,6 +1035,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628040804}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -944,6 +1125,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1981391202}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1005,6 +1210,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1981391202}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1135,7 +1364,7 @@ Transform:
   m_GameObject: {fileID: 720107632}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 18.275, y: 0, z: 0}
+  m_LocalPosition: {x: 22.2, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 20, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1149,6 +1378,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1794036898}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.81
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1210,6 +1467,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628813492}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.24
@@ -1404,6 +1677,38 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 927411225}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: unbreakable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: boneHealth
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[3]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.84
@@ -1461,6 +1766,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628813492}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.86
@@ -1528,6 +1849,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628040804}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1627,6 +1972,38 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 927411225}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: unbreakable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: boneHealth
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[3]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 14.7
@@ -1684,6 +2061,38 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 927411225}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: unbreakable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: boneHealth
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[3]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.76
@@ -1746,6 +2155,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1981391202}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1807,6 +2240,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1794036898}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.81
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1868,6 +2329,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628813492}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.84
@@ -2061,6 +2538,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1268555565}
   - component: {fileID: 1268555564}
+  - component: {fileID: 1268555566}
   m_Layer: 0
   m_Name: ' Bounds Bot'
   m_TagString: Untagged
@@ -2129,6 +2607,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1268555566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1268555563}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23b2d78624268474ab519c795b25f9bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1291438478
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2137,6 +2627,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628813492}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.76
@@ -2194,6 +2700,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1794036898}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.81
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2255,6 +2789,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1794036898}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.81
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2356,6 +2918,38 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 927411225}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: unbreakable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: boneHealth
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[3]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.24
@@ -2418,6 +3012,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1794036898}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.81
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2479,6 +3101,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1981391202}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2616,6 +3262,38 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 927411225}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: unbreakable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: boneHealth
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[3]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.86
@@ -2721,6 +3399,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628813492}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 14.7
@@ -2788,6 +3482,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1981391202}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2849,6 +3567,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1794036898}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.81
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2948,6 +3694,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628040804}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -3009,6 +3779,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628040804}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -3070,6 +3864,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628813492}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1900099561135631468, guid: 0a9373a8f95bdbe4795ea6ca0cb86df4, type: 3}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1154645775536685068, guid: 90617b564fcb37a42b84c1ef29d72ef9, type: 3}
     - target: {fileID: 6636467263103676387, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.12
@@ -3127,6 +3937,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1981391202}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -3193,6 +4027,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1981391202}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -3323,7 +4181,7 @@ Transform:
   m_GameObject: {fileID: 2092817413}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -18.275, y: 0, z: 0}
+  m_LocalPosition: {x: -22.2, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 20, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3337,6 +4195,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1628040804}
     m_Modifications:
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8220162055586151205, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -568774693531969434, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: 'states.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6088500873213738677, guid: b020a87857d559c4488902c9a9f0ad0d, type: 3}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849632439878557830, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.49
+      objectReference: {fileID: 0}
     - target: {fileID: 2069608508119803667, guid: dbb8ec0c90ee59340810d3f057c91aa4, type: 3}
       propertyPath: m_Sprite
       value: 

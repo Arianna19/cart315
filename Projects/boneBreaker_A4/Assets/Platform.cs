@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Platform : MonoBehaviour
 {
-    public new Rigidbody2D rigidBod { get; private set; } //other things can access the rigid body but only this class can set values
+    public Rigidbody2D rigidBod { get; private set; } //other things can access the rigid body but only this class can set values
     public Vector2 direction { get; private set; } //store the direction in which the paddle is moving
     public float speed = 30f; //speed of the paddle movement
     public float maxBounceAngle = 75f; //never make the skull go fully flat when bouncing on the platform
@@ -10,6 +10,13 @@ public class Platform : MonoBehaviour
     private void Awake()
     {
         this.rigidBod = GetComponent<Rigidbody2D>(); //function that will look at the gameobject script is on and get any component from it
+    }
+
+    public void resetPlatform()
+    {
+        //reset position and velocity
+        this.transform.position = new Vector2(0f, this.transform.position.y); //just reset the x and not the y 
+        this.rigidBod.velocity = Vector2.zero; //reset the velocity to zero when game reloaded
     }
     
     private void Update()

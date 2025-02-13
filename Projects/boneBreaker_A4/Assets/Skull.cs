@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Skull : MonoBehaviour
 {
-    public new Rigidbody2D rigidBod { get; private set; } //other things can access the rigid body but only this class can set values
+    public Rigidbody2D rigidBod { get; private set; } //other things can access the rigid body but only this class can set values
     public float speed = 500f;
     private void Awake()
     {
@@ -11,7 +11,15 @@ public class Skull : MonoBehaviour
         
     private void Start()
     {
+        ResetSkull();
+    }
+
+    public void ResetSkull()
+    {
+        this.transform.position = Vector2.zero;
+        this.rigidBod.velocity = Vector2.zero;
         Invoke(nameof(SetRandomMovement), 1f); //create a delay for the game
+
     }
 
     //delay the start of the skull movement
