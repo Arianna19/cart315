@@ -90,6 +90,23 @@ This is the final state of the bones and they disappear after this
 
 ![This is an image BoneBreaker Simulation2](images/boneBreakerImages/bonebreakerSimualtion2.png)
 
+## A5────୨ৎ────Poop Jumper Bootleg | February 20th 2025────୨ৎ────
+
+Exhauted is how I'm feeling this week, the snow and cold are definetely not helping motivation or overall productivity school-wise. I also worked a lot more this week than usual. Anyhow, this is what I tried to breifly explore throughout this snow storm. 
+
+Since there wasn't much guidance for this week's prototype I took it as time work on my struggles instead of creating something new.
+
+So, for the past few assignments I've been struggling a lot dealing with velocity, speed and bounce or understanding how it works in Unity. Especially the coding part, I'm not the best coder in the world either which explains why I'm stuggling with these concepts. Hence, to get a better understanding of it I tried to mimick a game that plays literally with all those issues which is the mobile app Doodle Jump. I tried to replicate this concept of jumping on a bouncy platform in my own way by twisting it with my own sprites and slighlty modifying the main mechanics of the original game. Again, following the human body/organs/anatomy that I have going on in this class. To achieve that I decided to make it based on the stomach's functions. Meaning, making it a poop naviguating  intestines. Why? Honestly because it's funny and I haven't made anything super comedic in this class and might as well explore it. 
+
+Not much was actually created or really deeply explored I used this to genuienly get a better understanding of how certain physics work within Unity since I noticed I struggled with certain things multiple times. Used this week as a learning oppurtunity to improve or catch up to the rest of the class in terms of the physics of Unity. 
+
+This process really helped me figure out how to make something bouncy and modify the way in which it falls or reacts to certain objects within the world I'm using. Moreover, it helped me understand how velocity changes and works. I was just able to get more comfortable with it and coding the physics.
+
+I honestly don't have much to say for this journal entry because it was less a creative prototype but more a testing/understanding one. I really struggled with the past Block Breaking assignment which is why I wanted to properly learn about the issues I had previously. 
+
+Main thing: Bounce, velocity and speed were better understood this week. Very short entry this time and more learning was done through Poop Jumper. "Rattrapage" -> "Catching Up" session. 
+
+
 
 
 
