@@ -113,6 +113,9 @@ Main thing: Bounce, velocity and speed were better understood this week. Very sh
 ![This is an image of Backgroundwalls](images/poopJumperImages/background.png)
 ![This is an image of intestinal platforms](images/poopJumperImages/intestines.png)
 ![This is an image of poop person](images/poopJumperImages/poopPerson.png)
+![This is an image of poop person](images/poopJumperImages/poopJumperSimulation.png)
+
+
 
 
 
