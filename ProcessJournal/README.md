@@ -102,6 +102,10 @@ Not much was actually created or really deeply explored I used this to genuienly
 
 This process really helped me figure out how to make something bouncy and modify the way in which it falls or reacts to certain objects within the world I'm using. Moreover, it helped me understand how velocity changes and works. I was just able to get more comfortable with it and coding the physics.
 
+One thing important thing is that I learned how to incorporte a timer in my game to represent how long the poop/player is digesting just to add a small challenging component. I wanted to stray away from a counter since we had already seen it and want to learn the most of what I can do with Unity so why not try something new?
+
+Last important takeaway from this mini assignment would be how I learned something new with the components when creating my Intestinal platforms. I discovered the edge collider and the platform effector. These two compoenents make it so that only one side of an object is interactable but the player can still go through it depending on where they "hit" it from. In Poop Jumper it allows the player to pass under the platforms and jump on top of them which is pretty neat!
+
 I honestly don't have much to say for this journal entry because it was less a creative prototype but more a testing/understanding one. I really struggled with the past Block Breaking assignment which is why I wanted to properly learn about the issues I had previously. 
 
 Main thing: Bounce, velocity and speed were better understood this week. Very short entry this time and more learning was done through Poop Jumper. "Rattrapage" -> "Catching Up" session. 
