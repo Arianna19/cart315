@@ -110,6 +110,11 @@ I honestly don't have much to say for this journal entry because it was less a c
 
 Main thing: Bounce, velocity and speed were better understood this week. Very short entry this time and more learning was done through Poop Jumper. "Rattrapage" -> "Catching Up" session. 
 
+![This is an image of Backgroundwalls](images/poopJumperImages/background.png)
+![This is an image of intestinal platforms](images/poopJumperImages/intestines.png)
+![This is an image of poop person](images/poopJumperImages/poopPerson.png)
+
+
 
 
 
