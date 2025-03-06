@@ -115,7 +115,25 @@ Main thing: Bounce, velocity and speed were better understood this week. Very sh
 ![This is an image of poop person](images/poopJumperImages/poopPerson.png)
 ![This is an image of poop person](images/poopJumperImages/poopJumperSimulation.png)
 
+## Prototype 1────୨ৎ────First Process | March 6th 2025────୨ৎ────
 
+Tough times lately, midterms are harsh and my health even harsher. Before going into study break I got the stomach flu for the second time this year and was completely incapacitated from it, I couldn't do anything and attending class was impossible. That being said with the little energy I had I was able to discuss with Sam (classmate teamed up with) the direction we want to go in for our final project and brainstorm quick ideas. 
+
+Concept: 
+Sheep hoarding game where the player is a sheperd collecting various types of sheep in the world. Exploration type of game concept. 
+Directions: 
+Make it so that if the player is missing some sheep consequences happen and make game objectivees to entice the player to get the various types of sheep in the world. The amount of sheep the player has is tied to the healthbar they have. The game will have various types of sheep for example, a black sheep that could have a bomb type of characteristc attached to it. The sheep categories still need to be developed further. 
+Atmosphere: 
+Explorative, peaceful and naturistic. Sam mentionned he has a friend willing to create audio to enhance the immersion to the game. 
+Game POV: 
+Pixel art;
+3D game using 2D pixel art;
+Topside view; (League of Legends, MOBA)
+Old Pokemon style.
+
+Reference/Inspiration Pictures During Brainstorming: 
+Title of The Game: 
+![image](https://github.com/user-attachments/assets/5d87b478-a6f3-4b7f-9c32-66a386c6cadc)
 
 
 
