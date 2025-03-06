@@ -117,7 +117,7 @@ Main thing: Bounce, velocity and speed were better understood this week. Very sh
 
 ## Prototype 1────୨ৎ────First Process | March 6th 2025────୨ৎ────
 
-Tough times lately, midterms are harsh and my health even harsher. Before going into study break I got the stomach flu for the second time this year and was completely incapacitated from it, I couldn't do anything and attending class was impossible. That being said with the little energy I had I was able to discuss with Sam (classmate teamed up with) the direction we want to go in for our final project and brainstorm quick ideas. 
+Tough times lately, midterms are harsh and my health even harsher. Before going into study break I got the stomach flu for the second time this year and was completely incapacitated from it, I couldn't do anything and attending class was impossible. That being said with the little energy I had I was able to discuss with Sam (classmate teamed up with) the direction we want to go in for our final project and brainstorm quick ideas via discord. 
 
 Concept: 
 Sheep hoarding game where the player is a sheperd collecting various types of sheep in the world. Exploration type of game concept. 
