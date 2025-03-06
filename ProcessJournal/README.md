@@ -132,8 +132,28 @@ Topside view; (League of Legends, MOBA)
 Old Pokemon style.
 
 Reference/Inspiration Pictures During Brainstorming: 
+
 Title of The Game: 
+
 ![image](https://github.com/user-attachments/assets/5d87b478-a6f3-4b7f-9c32-66a386c6cadc)
+
+Player Character Design Concept: 
+
+![image](https://github.com/user-attachments/assets/01618c8b-b62e-4bf1-94d0-0ff3dd6e9690)
+
+POV Inspiration for the Game:
+
+![image](https://github.com/user-attachments/assets/a87fdab3-5379-49af-8cff-30e674b96b02)
+
+Desired Art Style:
+
+![image](https://github.com/user-attachments/assets/78fed1fa-2ee7-41d1-9dc3-7ed52cb69300)
+![image](https://github.com/user-attachments/assets/656de26b-1a5a-4fab-afc2-115f0ea5f590)
+
+
+
+
+
 
 
 
