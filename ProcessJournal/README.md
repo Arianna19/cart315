@@ -160,7 +160,6 @@ So, to do all of this we did a shared GoogleDocs and wrote down all the things t
 
 Here's the file we worked on together:
 
-[embed]https://docs.google.com/document/d/10QMTbl_JGKlpNrhb2ZYbfzKoXLPGPEJwox9K1OjMsxc/edit?usp=sharing[/embed]
 ![To Do List Done with Sam](pdfFilesForFinal/ToDoList_ShepherdSamandArianna.pdf)
 
 
