@@ -160,6 +160,7 @@ So, to do all of this we did a shared GoogleDocs and wrote down all the things t
 
 Here's the file we worked on together:
 
+![To Do List Done with Sam](pdfFilesForFinal/ToDoList_ShepherdSamandArianna.pdf)
 
 
 
