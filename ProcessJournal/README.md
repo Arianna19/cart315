@@ -150,6 +150,16 @@ Desired Art Style:
 ![image](https://github.com/user-attachments/assets/78fed1fa-2ee7-41d1-9dc3-7ed52cb69300)
 ![image](https://github.com/user-attachments/assets/656de26b-1a5a-4fab-afc2-115f0ea5f590)
 
+## Prototype 2────୨ৎ────To Do List with Sam | March 13th 2025────୨ৎ────
+
+Had a Discord call with Sam to decide our game plan for the creation of our Final Project and the components we want to add in it. We mainly spoke about how we want to proceed and what we want to accomplish in the game. The call this week was to help understand what needs to be done in the following weeks to actually accomplish what we have in mind and also be realistic about what we want to do since our ideas beforehand were kind of all over the place. 
+
+The main thing to remember is how we brought down our ideas together to make a clearer game concept and idea since we didn't have a set path or idea. Mainly broke down the huge idea we had in smaller steps to tackle it in an easier manner and to be able to visualize where we're headed with this Shepherd collecting game!
+
+So, to do all of this we did a shared GoogleDocs and wrote down all the things that need to be done and ideas we had and kept for the final product. Also created a breif timeline to follow to accomplish everything by the due date. 
+
+Here's the file we worked on together:
+
 
 
 
