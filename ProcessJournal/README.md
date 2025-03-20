@@ -181,10 +181,10 @@ I would say Sam really did a lot for the player movement and making the sheep mo
 
 Main things: Using GitHub is not an easy feat for either Sam or I, but were learning to use it and managed to figure out how after a long time. Progress was made in super short time and the game is finally coming along. 
 
-Image of what the Start Screen look like leaving last class
+Image of what the Start Screen looked like leaving last class (Before)
 ![This is an image of Start Screen Of Shepherd](images/finalProjectImages/beforeStartScreen.png)
 
-Image of what the Start Screen looks like now
+Image of what the Start Screen looks like now (After)
 ![This is an image of Start Screen Of Shepherd](images/finalProjectImages/StartScreen.png)
 
 ![This is an image of the title card](images/finalProjectImages/TITLE_CARD_1.png)
