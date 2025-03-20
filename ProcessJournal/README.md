@@ -164,8 +164,27 @@ Here's the file we worked on together:
 
 ## Prototype 3────୨ৎ────Progress!!! | March 19th 2025────୨ৎ────
 
+A lot of progress was done in less than a week on our Shepherd game between both Sam and I. Although we had a few hiccups trying to figure how to use GitHub to collaborate on this project we pulled through and managed to do something presentable. 
 
-5555555
+This week the main thing we did this week: 
+
+- Screen/Scene management;
+- Build scenes;
+- Clickable button on the start screen to switch to the gameplay scene;
+- Scene decoration and feel;
+- Player movement;
+- Sheep movement and herding behaviour for the sheep;
+- Camera movement and making it follow the player throughout the simulation;
+- A lot of artwork to get the feel of the game.
+
+I would say Sam really did a lot for the player movement and making the sheep move in a herd in some amazing way with placehodlers being little squares. Coding the movement was definetely a challenge. 
+
+Main things: Using GitHub is not an easy feat for either Sam or I, but were learning to use it and managed to figure out how after a long time. Progress was made in super short time and the game is finally coming along. 
+
+
+  
+
+
 
 
 
