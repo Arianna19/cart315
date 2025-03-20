@@ -184,8 +184,14 @@ Main things: Using GitHub is not an easy feat for either Sam or I, but were lear
 Image of what the Start Screen looks like now
 ![This is an image of Start Screen Of Shepherd](images/finalProjectImages/StartScreen.png)
 
-Image of the title 
 ![This is an image of the title card](images/finalProjectImages/TITLE_CARD_1.png)
+
+![This is an image of the title card](images/finalProjectImages/Start.png)
+
+Image of what the Game Play screen is looking like with placeholders for the sheep and player
+![This is an image of the title card](images/finalProjectImages/Movement.png)
+
+
 
 
   
