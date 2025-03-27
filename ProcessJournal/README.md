@@ -213,6 +213,8 @@ What was added this week, both Sam and I wanted to experiment on interactive dia
 
 Main things: Figuring how to order events was figured out in this prototype which will be useful for storytelling and flow of the game for the player. Functionality of the game is still the main objective at the moment. Next thing to overcome is the end event of the game and how you can lose in the game. While doing so, enemies will also be a subject to be tackled for the next week. 
 
+What our Prototype is looking like at the moment:
+
 ![NPC](https://github.com/user-attachments/assets/f8af26a4-909b-4fa5-9671-15a9fd25e530)
 
 
