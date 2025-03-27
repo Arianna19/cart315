@@ -196,10 +196,25 @@ Image of what the Game Play screen is looking like with placeholders for the she
 Link to see the movement
 https://drive.google.com/file/d/11AunPnHIca51EWG2EQu3A7AOhWO88d1-/view
 
+## Prototype 3────୨ৎ────Slow but New Things!!! | March 27th 2025────୨ৎ────
 
+Hard week personally a lot going out in my personal circle which is why this journal entry might be a bit shorter compared to my previous ones but here's what's new!
+This week was some slow progress but amazing new discoveries and new elements added to the prototype. Learned a lot about Unity this time and still learning how it works. 
 
+What was added this week, both Sam and I wanted to experiment on interactive dialogue and NPCs/elements that the player can encounter as the game progressed. So, I mainly focused on that throughout this week on my end for the prototype. Basically, I made a very raw version of what the interaction would look like and how it would be triggered by the player by clicking "E". I just used a bunch of placeholder elements because the main objective is to get it functionning and understand the logic behind it. Making things visually stimulating/interesting will come later into play if there's still time. But for the prototype it for sure is just raw and bleak. BUT! It works. Briefly, the main things I learned while doing this was: 
+- A lot of text components;
+- Arrays;
+- The order of events really matter to get everything flowing properly;
+- How to trigger events by clicking a key;
+- Dialogue Pannels;
+- Dialogue elements and how to sequence them by adding elements for the dialogue;
+![image](https://github.com/user-attachments/assets/81a9837d-7e06-489a-b508-1bed27f73ec2)
+- Button systems.
 
-  
+Main things: Figuring how to order events was figured out in this prototype which will be useful for storytelling and flow of the game for the player. Functionality of the game is still the main objective at the moment. Next thing to overcome is the end event of the game and how you can lose in the game. While doing so, enemies will also be a subject to be tackled for the next week. 
+
+![NPC](https://github.com/user-attachments/assets/f8af26a4-909b-4fa5-9671-15a9fd25e530)
+
 
 
 
