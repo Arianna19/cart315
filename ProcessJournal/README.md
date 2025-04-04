@@ -233,7 +233,7 @@ Few new additions on my end:
 
 ![thisWeek](https://github.com/user-attachments/assets/c3cf1fa7-9ee5-4063-aacf-70856b5a3f64)
 
-Main things: Focused on story progression and how the game would like if it ended badly. Really focusing on progression for the player these next weeks before we present even though the artwork might not be fully there for the final. Player progression is the priority now and was a bit this past week.
+Main things: Focused on story progression and how the game would like if it ended badly. Really focusing on progression for the player these next weeks before we present even though the artwork might not be fully there for the final. Player progression is the priority now and was a bit this past week. A few enemies will be added afterwards as well for next week. 
 
 
 
