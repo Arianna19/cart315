@@ -219,8 +219,20 @@ What our Prototype is looking like at the moment:
 
 ## Prototype 4────୨ৎ────SO STRESSED BUT TRYING OUT HERE!!! | April 3rd 2025────୨ৎ────
 
+Extremely swampped this week! But Sam and I are trying our best to produce some type of prototype to present next week of our strong concept. Don't have much to say for this week since we didn't work that much on the project this week. 
 
+Few new additions on my end: 
 
+- Created a new scene for the bad ending;
+- New assets were added
+- Created a start again button for when game ends;
+- Trying to create new art for the game;
+- Focused on story telling and flow of the game;
+- End state was talked about. 
+
+![thisWeek](https://github.com/user-attachments/assets/c3cf1fa7-9ee5-4063-aacf-70856b5a3f64)
+
+Main things: Focused on story progression and how the game would like if it ended badly. Really focusing on progression for the player these next weeks before we present even though the artwork might not be fully there for the final. Player progression is the priority now and was a bit this past week.
 
 
 
