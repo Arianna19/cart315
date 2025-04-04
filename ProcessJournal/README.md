@@ -225,6 +225,7 @@ Few new additions on my end:
 
 - Created a new scene for the bad ending;
 - New assets were added
+- Switching scenes;
 - Created a start again button for when game ends;
 - Trying to create new art for the game;
 - Focused on story telling and flow of the game;
