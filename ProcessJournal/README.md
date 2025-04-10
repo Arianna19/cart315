@@ -235,7 +235,7 @@ Few new additions on my end:
 
 Main things: Focused on story progression and how the game would like if it ended badly. Really focusing on progression for the player these next weeks before we present even though the artwork might not be fully there for the final. Player progression is the priority now and was a bit this past week. A few enemies will be added afterwards as well for next week. Also going to add the good ending which is reaching the barn later tonight. 
 
-## Prototype 4────୨ৎ────One week before the final submission| April 10th 2025────୨ৎ────
+## Prototype 5────୨ৎ────One week before final submission| April 10th 2025────୨ৎ────
 
 This week not much work was done on the actual game, were really going to finalize the game in the final week were given after the playtest we do today in class with what we have so far. A few things that were indeed added on my end is creating the good ending screen interactions for the player to have to continue the storytelling aspect of our game for the player. Moreover, to get to that screen a barn was added and when the player reaches it, it changes to the winner screen added. All for story progression purposes and objectivity in the game overall. Sam added an enemy component and interaction for progression and challenge purposes. 
 
