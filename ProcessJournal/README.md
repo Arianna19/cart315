@@ -254,6 +254,12 @@ I would say by this week we managed to add all the main components for this prot
 - Shooting components
 - Some overall artstle to get an idea of what the game would fee like
 
+Main thing: We got the overall storyline done for player progression for the playtest and added challenging components. For the next final week after the playtest we will work really hard on creating a nicer looking prototype by also considering the feedback from peers. Things to be added, map dimensions, more artwork, connectivity and a bit more interactivity for the player. 
+
+Screen and barn I added for this week: 
+![BarnShepherd](https://github.com/user-attachments/assets/b1c68b2f-6a72-412d-ae8f-3583e18a095e)
+![goodEndingVid](https://github.com/user-attachments/assets/5904b847-2a7e-4ffb-ae98-4374afe3931c)
+
 
 
 
